@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">A passionate Backend Developer From Bangladesh 💀 </h3>
-<h4 align="center"> I'm Durjoy, a Beckemd Developer from  Bangladesh and Content Creator on Youtube.<h4/>
+<h4 align="center"> I'm Durjoy, a Beckend Developer from  Bangladesh and Content Creator on Youtube.<h4/>
 <br/>
  </div>
   

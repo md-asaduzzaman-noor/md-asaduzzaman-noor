@@ -48,6 +48,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Not-Durjoy&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Not-Durjoy&theme=onedark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Durjoy&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Durjoy&theme=onedark&hide_border=true&include_all_commits=truw&count_private=true&layout=compact)
 
 ---

@@ -91,7 +91,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Not-Durjoy&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-Durjoy&theme=onedark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Durjoy&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Not-Durjoy&theme=onedark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-Durjoy&theme=onedark&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Durjoy&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
 </div>

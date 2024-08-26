@@ -2,14 +2,11 @@
 
 Hi, I'm **MD Durjoy**—a passionate backend web developer and content creator. I specialize in creating efficient and scalable server-side applications using JavaScript. I also love contributing to open source projects and sharing my knowledge through tutorials and articles.
 
-# 🔧 Skills
+# 🔧 Skills & Tools
 
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: Node.js, Express
-- **Databases**: MongoDB
-- **Tools**: Docker, Git,Travis CI
-- **Cloud Services**: AWS, Google Cloud, Firebase
-- **Other Technologies**: RESTful APIs, GraphQL
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,firebase,mongodb,express,graphql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,npm,yarn,vercel,aws,vscode&perline=3)](https://skillicons.dev)
 
 # 🛠️ Projects
 
